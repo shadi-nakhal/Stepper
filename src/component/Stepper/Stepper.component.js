@@ -84,6 +84,7 @@ export default class Stepper extends Component {
                   <span
                     style={{
                       color: "white",
+                      margin: "5px",
                     }}
                   >
                     &#10003;
