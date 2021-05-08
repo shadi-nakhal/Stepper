@@ -46,12 +46,4 @@ class Checkout extends SourceCheckout {
   }
 }
 
-const stepsArray = [
-  // "Create your account",
-  "Add personal info",
-  "Add payment details",
-  "Complete registration",
-  "Registration complete",
-];
-
 export default Checkout;
